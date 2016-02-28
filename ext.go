@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/PuerkitoBio/goquery"
+	"github.com/betacraft/goquery"
 )
 
 // DelayInfo contains the delay configuration: the Options delay, the

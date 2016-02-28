@@ -12,8 +12,8 @@ import (
 
 	"path"
 
-	"github.com/PuerkitoBio/goquery"
-	robotstxt "github.com/temoto/robotstxt.go"
+	"github.com/betacraft/goquery"
+	robotstxt "github.com/temoto/robotstxt-go"
 	"golang.org/x/net/html"
 )
 
